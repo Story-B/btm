@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
+<events>
+ <track type="1" name="early">
+  <event>
+    <title>2016 PIAA AAA 120 LBS Wrestling State Finals</title>
+    <date type="start">
+      <year>2016</year>
+      <month>03</month>
+      <day>12</day>
+    </date>
+  
+    <description>Spencer Lee techfalls Austin Desanto in 3 minutes 43 seconds. Claiming his 3rd state title in the process.</description>
+    <lat>40.2881</lat>
+    <lon>-76.6583</lon>
+  </event>
+
+  <event>
+    <title>2017 PIAA AAA 126 LBS Wrestling State Finals</title>
+    <date type="start">
+      <year>2017</year>
+      <month>03</month>
+      <day>11</day>
+    </date>
+   
+    <description>Austin Desanto beats Spencer Lee in the state finals with a score of 6-5. Desanto handed Lee his first and only loss in his entire PIAA highschool career.</description>
+    <lat>40.2881</lat>
+    <lon>-76.6583</lon>
+  </event>
+  </track>
+ 
+ <track type="2" name="mid">
+  <event>
+    <title>Spencer Lee sign commits to The University of Iowa</title>
+    <date type="start">
+      <year>2016</year>
+      <month>04</month>
+      <day>21</day>
+      
+    </date>
+    
+    <description>Spencer Lee signs national letter of intent in Franklin Regional Senior Highschool and announces he will continue his wrestling career as a Hawkeye at The University of Iowa. </description>
+    <lat>40.4297</lat>
+    <lon>-75.1917</lon>
+   
+  </event>
+ 
+  <event>
+    <title>Austin Desanto commits to Drexel University</title>
+    <date type="start">
+      <year>2016</year>
+      <month>08</month>
+      <day>26</day>
+     
+    </date>
+    
+    <description>Austin Desanto signs national letter of intent in Exeter Township Highschool and announces he will continue his wrestling career as a dragon at Drexel University. </description>
+    <lat>40.3202</lat>
+    <lon>-75.8691</lon>
+  </event>
+ 
+  
+ </track>
+
+<track type="3" name="late">
+  <event>
+    <title>Desanto flips commitment to Iowa</title>
+    <date type="start">
+      <year>2018</year>
+      <month>04</month>
+      <day>29</day>
+     
+    </date>
+    
+    <description>Austin Desanto announced his transfer to join former opponent, Spencer Lee, and the Iowa Hawkeyes.</description>
+    <lat>39.9557</lat>
+    <lon>-75.1917</lon>
+     </event>
+ </track>
+</events>
