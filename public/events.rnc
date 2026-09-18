@@ -1,0 +1,8 @@
+start = events 
+events = element events {track+}
+track = element track {
+attribute type { text },
+attribute name {text },
+event+
+ }
+ event = element event { text }
